@@ -1,0 +1,16 @@
+{
+  "name": "sign-tx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alchemy-sdk": "^3.6.1",
+    "dotenv": "^17.2.0"
+  },
+  "description": ""
+}
